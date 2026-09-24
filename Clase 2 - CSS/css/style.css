@@ -1,0 +1,28 @@
+/* CSS General */
+body {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: rgb(227, 234, 240);
+}
+
+header, footer {
+    background-image: url("../img/fondo-granos.png");
+    background-color: rgb(109, 29, 29);
+}
+
+/* CSS Tipigrafría */
+.title {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 45px;
+}
+
+.texto {
+    color: rgb(165, 42, 42);
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+}
